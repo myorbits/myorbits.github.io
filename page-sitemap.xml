@@ -15,6 +15,20 @@
     </url>
     
     <url>
+        <loc>http://yoursite.com/categories/mobile/</loc>
+        <lastmod>2019-09-09T10:19:29.249Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://yoursite.com/categories/workflow/</loc>
+        <lastmod>2019-09-09T10:19:29.249Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>http://yoursite.com/categories-mobile/</loc>
         <lastmod>2019-09-09T10:17:42.384Z</lastmod>
         <changefreq>weekly</changefreq>
