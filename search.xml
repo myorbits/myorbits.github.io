@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[BAM工作流产品简介]]></title>
+    <url>%2F2019%2F09%2F09%2Fbam-wf-introduce%2F</url>
+    <content type="text"><![CDATA[BAM工作流产品，主要面向政府、企业日常的流程管控，支持在线开发与部署流程相关的应用。]]></content>
+      <tags>
+        <tag>BAM</tag>
+        <tag>SpringBoot</tag>
+        <tag>BPMN</tag>
+        <tag>Vue</tag>
+        <tag>工作流</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[BAM 5.0 产品简介]]></title>
+    <url>%2F2019%2F09%2F09%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[本站主要为产品BAM5.0一些产品、技术做介绍，便于开发人员了解产品的情况，也便于产品应用人员方便了解产品进度，如何使用产品等。更多信息敬请期待！]]></content>
+  </entry>
+</search>

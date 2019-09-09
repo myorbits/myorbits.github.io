@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>BAM服务中台产品</title>
+  
+  <subtitle>中台产品开发与应用</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-09-09T09:07:50.205Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>联致软件</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>BAM工作流产品简介</title>
+    <link href="http://yoursite.com/2019/09/09/bam-wf-introduce/"/>
+    <id>http://yoursite.com/2019/09/09/bam-wf-introduce/</id>
+    <published>2019-09-09T09:01:58.000Z</published>
+    <updated>2019-09-09T09:07:50.205Z</updated>
+    
+    <content type="html"><![CDATA[<p>BAM工作流产品，主要面向政府、企业日常的流程管控，支持在线开发与部署流程相关的应用。</p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      BAM平台的子产品工作流产品，提供基于BPMN2.0规范的流程引擎，平台基于SpringBot2.0，并提供开箱即用的web网站和APP
+    
+    </summary>
+    
+    
+    
+      <category term="BAM" scheme="http://yoursite.com/tags/BAM/"/>
+    
+      <category term="SpringBoot" scheme="http://yoursite.com/tags/SpringBoot/"/>
+    
+      <category term="BPMN" scheme="http://yoursite.com/tags/BPMN/"/>
+    
+      <category term="Vue" scheme="http://yoursite.com/tags/Vue/"/>
+    
+      <category term="工作流" scheme="http://yoursite.com/tags/%E5%B7%A5%E4%BD%9C%E6%B5%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>BAM 5.0 产品简介</title>
+    <link href="http://yoursite.com/2019/09/09/hello-world/"/>
+    <id>http://yoursite.com/2019/09/09/hello-world/</id>
+    <published>2019-09-09T03:35:39.204Z</published>
+    <updated>2019-09-09T08:48:23.244Z</updated>
+    
+    <content type="html"><![CDATA[<p>本站主要为产品BAM5.0一些产品、技术做介绍，便于开发人员了解产品的情况，也便于产品应用人员方便了解产品进度，如何使用产品等。<br>更多信息敬请期待！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;本站主要为产品BAM5.0一些产品、技术做介绍，便于开发人员了解产品的情况，也便于产品应用人员方便了解产品进度，如何使用产品等。&lt;br&gt;更多信息敬请期待！&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
