@@ -8,14 +8,14 @@
     </url>
     
     <url>
-        <loc>http://yoursite.com/categories/data/</loc>
+        <loc>http://yoursite.com/categories/mobile/</loc>
         <lastmod>2019-09-09T10:19:29.249Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://yoursite.com/categories/mobile/</loc>
+        <loc>http://yoursite.com/categories/data/</loc>
         <lastmod>2019-09-09T10:19:29.249Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
